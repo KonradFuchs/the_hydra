@@ -1,7 +1,7 @@
 # Hydra Virus
 <img src="https://raw.githubusercontent.com/KonradFuchs/the_hydra/master/hydra.png">
 
-## *"Cut off one head, two more shall take its place!"*
+## *"Cut off one head and two more will take its place!"*
 
 Hydra is a simple virus that displays a message box. When you close a message box, 2 more will show up.
 
