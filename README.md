@@ -1,5 +1,5 @@
 # Hydra Virus
-<img src="https://github.com/giabao4498/Hydra-Virus/blob/master/Hydra%20icon.ico">
+<img src="https://raw.githubusercontent.com/KonradFuchs/the_hydra/master/hydra.png">
 
 ## *"Cut off one head, two more shall take its place!"*
 
