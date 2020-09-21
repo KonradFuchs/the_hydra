@@ -9,6 +9,4 @@ This virus was implemented using ***Visual Basic*** and ***.NET 4.7.1***.
 
 This virus is harmless 🙂 If you know how to make it more annoying (for example: Task Manager can't shut it down), feel free to contact me
 
-(so that means Task Manager is Captain America 🤔)
-
 # *HAIL HYDRA!*
